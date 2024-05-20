@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wevoltenterprise/static/css/main.e6c13ad2.css",
+    "main.js": "/wevoltenterprise/static/js/main.f4de3071.js",
+    "static/js/453.ed3810f9.chunk.js": "/wevoltenterprise/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/wevoltenterprise/index.html",
+    "main.e6c13ad2.css.map": "/wevoltenterprise/static/css/main.e6c13ad2.css.map",
+    "main.f4de3071.js.map": "/wevoltenterprise/static/js/main.f4de3071.js.map",
+    "453.ed3810f9.chunk.js.map": "/wevoltenterprise/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f4de3071.js"
+  ]
+}
